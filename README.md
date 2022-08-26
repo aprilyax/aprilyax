@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on MIT xPro Professional Certificate in Coding: Full Stack Development with MERN.
-- 🌱 I’m currently learning Javascript
+- 🔭 I have: MIT xPro Professional Certificate in Coding: Full Stack Development with MERN.
+- 🌱 I’m currently developing my Javascript, REACT, CSS, Node.js skills
 - 📫 How to reach me: aprilyax@gmail.com
 - 😄 Pronouns: she/her
 
